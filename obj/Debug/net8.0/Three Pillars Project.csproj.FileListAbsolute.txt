@@ -1,0 +1,14 @@
+E:\Everything\Everything School\University\BSCS-II (2024-2025)\1st Semester\SDF 104\Three Pillars Project\bin\Debug\net8.0\Three Pillars Project.exe
+E:\Everything\Everything School\University\BSCS-II (2024-2025)\1st Semester\SDF 104\Three Pillars Project\bin\Debug\net8.0\Three Pillars Project.deps.json
+E:\Everything\Everything School\University\BSCS-II (2024-2025)\1st Semester\SDF 104\Three Pillars Project\bin\Debug\net8.0\Three Pillars Project.runtimeconfig.json
+E:\Everything\Everything School\University\BSCS-II (2024-2025)\1st Semester\SDF 104\Three Pillars Project\bin\Debug\net8.0\Three Pillars Project.dll
+E:\Everything\Everything School\University\BSCS-II (2024-2025)\1st Semester\SDF 104\Three Pillars Project\bin\Debug\net8.0\Three Pillars Project.pdb
+E:\Everything\Everything School\University\BSCS-II (2024-2025)\1st Semester\SDF 104\Three Pillars Project\obj\Debug\net8.0\Three Pillars Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\Everything\Everything School\University\BSCS-II (2024-2025)\1st Semester\SDF 104\Three Pillars Project\obj\Debug\net8.0\Three Pillars Project.AssemblyInfoInputs.cache
+E:\Everything\Everything School\University\BSCS-II (2024-2025)\1st Semester\SDF 104\Three Pillars Project\obj\Debug\net8.0\Three Pillars Project.AssemblyInfo.cs
+E:\Everything\Everything School\University\BSCS-II (2024-2025)\1st Semester\SDF 104\Three Pillars Project\obj\Debug\net8.0\Three Pillars Project.csproj.CoreCompileInputs.cache
+E:\Everything\Everything School\University\BSCS-II (2024-2025)\1st Semester\SDF 104\Three Pillars Project\obj\Debug\net8.0\Three Pillars Project.dll
+E:\Everything\Everything School\University\BSCS-II (2024-2025)\1st Semester\SDF 104\Three Pillars Project\obj\Debug\net8.0\refint\Three Pillars Project.dll
+E:\Everything\Everything School\University\BSCS-II (2024-2025)\1st Semester\SDF 104\Three Pillars Project\obj\Debug\net8.0\Three Pillars Project.pdb
+E:\Everything\Everything School\University\BSCS-II (2024-2025)\1st Semester\SDF 104\Three Pillars Project\obj\Debug\net8.0\Three Pillars Project.genruntimeconfig.cache
+E:\Everything\Everything School\University\BSCS-II (2024-2025)\1st Semester\SDF 104\Three Pillars Project\obj\Debug\net8.0\ref\Three Pillars Project.dll
